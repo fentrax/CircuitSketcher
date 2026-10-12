@@ -2,7 +2,7 @@
   "version": "1.0",
   "id": "ammeter",
   "name": "Amperemeter",
-  "category": "Messgeräte",
+  "category": "Messger\u00e4te",
   "default_values": {
     "name": "A",
     "current": "0 A"
@@ -96,7 +96,7 @@
           "key": "name",
           "position": [
             0.0,
-            -32.0
+            34.0
           ],
           "alignment": "center"
         },
@@ -105,7 +105,7 @@
           "key": "current",
           "position": [
             0.0,
-            32.0
+            -30.0
           ],
           "alignment": "center"
         }
@@ -123,11 +123,11 @@
       "bounds": {
         "min": [
           -44.0,
-          -32.0
+          -38.0
         ],
         "max": [
           44.0,
-          20.0
+          40.0
         ]
       },
       "origin": [

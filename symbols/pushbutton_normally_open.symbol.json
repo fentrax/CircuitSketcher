@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "id": "pushbutton_normally_open",
-  "name": "Taster Öffner",
+  "name": "Taster \u00d6ffner",
   "category": "Steuerung",
   "default_values": {
     "name": "T"
@@ -103,8 +103,8 @@
           "type": "placeholder",
           "key": "name",
           "position": [
-            8.0,
-            -32.0
+            0.0,
+            34.0
           ],
           "alignment": "center"
         }
@@ -126,7 +126,7 @@
         ],
         "max": [
           40.0,
-          12.0
+          40.0
         ]
       },
       "origin": [

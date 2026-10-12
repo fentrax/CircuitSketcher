@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "id": "switch_normally_open",
-  "name": "Schalter Öffner",
+  "name": "Schalter \u00d6ffner",
   "category": "Steuerung",
   "default_values": {
     "name": "S"
@@ -147,8 +147,8 @@
           "type": "placeholder",
           "key": "name",
           "position": [
-            -4.0,
-            -40.0
+            0.0,
+            34.0
           ],
           "alignment": "center"
         }
@@ -170,7 +170,7 @@
         ],
         "max": [
           40.0,
-          14.0
+          40.0
         ]
       },
       "origin": [

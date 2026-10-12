@@ -60,7 +60,7 @@
           "key": "name",
           "position": [
             0.0,
-            -24.0
+            34.0
           ],
           "alignment": "center"
         }
@@ -82,7 +82,7 @@
         ],
         "max": [
           40.0,
-          8.0
+          40.0
         ]
       },
       "origin": [

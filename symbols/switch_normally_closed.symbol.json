@@ -136,8 +136,8 @@
           "type": "placeholder",
           "key": "name",
           "position": [
-            2.0,
-            -40.0
+            0.0,
+            34.0
           ],
           "alignment": "center"
         }
@@ -159,7 +159,7 @@
         ],
         "max": [
           40.0,
-          0.0
+          40.0
         ]
       },
       "origin": [

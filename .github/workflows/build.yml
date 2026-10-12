@@ -51,7 +51,8 @@ jobs:
           done
           iconutil -c icns icon.iconset
       - run: pyinstaller --noconfirm --windowed --name SchaltungsZeichner
-          --icon icon.icns --add-data "assets:assets" --add-data "symbols:symbols" main.py
+          --icon icon.icns --hidden-import PyQt5.QtSvg
+          --add-data "assets:assets" --add-data "symbols:symbols" main.py
       - run: hdiutil create -volname SchaltungsZeichner
           -srcfolder "dist/SchaltungsZeichner.app" -ov -format UDZO SchaltungsZeichner.dmg
       - uses: actions/upload-artifact@v4
