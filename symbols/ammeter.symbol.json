@@ -4,7 +4,7 @@
   "name": "Amperemeter",
   "category": "Messger\u00e4te",
   "default_values": {
-    "name": "A",
+    "name": "P",
     "current": "0 A"
   },
   "orientations": {

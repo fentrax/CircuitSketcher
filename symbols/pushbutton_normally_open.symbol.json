@@ -4,7 +4,7 @@
   "name": "Taster \u00d6ffner",
   "category": "Steuerung",
   "default_values": {
-    "name": "T"
+    "name": "S"
   },
   "orientations": {
     "horizontal": {

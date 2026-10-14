@@ -4,7 +4,7 @@
   "name": "Diode",
   "category": "Halbleiter",
   "default_values": {
-    "name": "D"
+    "name": "R"
   },
   "orientations": {
     "horizontal": {

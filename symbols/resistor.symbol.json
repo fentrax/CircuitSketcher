@@ -5,7 +5,7 @@
   "category": "Passive Bauteile",
   "default_values": {
     "name": "R",
-    "resistance": "1 kOhm"
+    "resistance": "1 kΩ"
   },
   "orientations": {
     "horizontal": {

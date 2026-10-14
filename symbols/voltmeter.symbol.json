@@ -4,7 +4,7 @@
   "name": "Voltmeter",
   "category": "Messger\u00e4te",
   "default_values": {
-    "name": "V",
+    "name": "P",
     "voltage": "0 V"
   },
   "orientations": {

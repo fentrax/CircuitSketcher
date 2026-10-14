@@ -4,7 +4,7 @@
   "name": "LED",
   "category": "Halbleiter",
   "default_values": {
-    "name": "LED"
+    "name": "P"
   },
   "orientations": {
     "horizontal": {
